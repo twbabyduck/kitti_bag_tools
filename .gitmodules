@@ -25,3 +25,6 @@
 [submodule "src/minkindr_ros"]
 	path = src/minkindr_ros
 	url = https://github.com/ethz-asl/minkindr_ros
+[submodule "src/kitti_to_rosbag"]
+	path = src/kitti_to_rosbag
+	url = https://github.com/ethz-asl/kitti_to_rosbag
