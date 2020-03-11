@@ -1,0 +1,27 @@
+[submodule "src/catkin_simple"]
+	path = src/catkin_simple
+	url = https://github.com/catkin/catkin_simple/
+[submodule "src/gflags_catkin"]
+	path = src/gflags_catkin
+	url = https://github.com/ethz-asl/gflags_catkin
+[submodule "src/minkindr"]
+	path = src/minkindr
+	url = https://github.com/ethz-asl/minkindr
+[submodule "src/eigen_catkin"]
+	path = src/eigen_catkin
+	url = https://github.com/ethz-asl/eigen_catkin
+[submodule "src/glog_catkin"]
+	path = src/glog_catkin
+	url = https://github.com/ethz-asl/glog_catkin
+[submodule "src/eigen_checks"]
+	path = src/eigen_checks
+	url = https://github.com/ethz-asl/eigen_checks
+[submodule "src/catkin_boost_python_buildtool"]
+	path = src/catkin_boost_python_buildtool
+	url = https://github.com/ethz-asl/catkin_boost_python_buildtool
+[submodule "src/numpy_eigen"]
+	path = src/numpy_eigen
+	url = https://github.com/ethz-asl/numpy_eigen
+[submodule "src/minkindr_ros"]
+	path = src/minkindr_ros
+	url = https://github.com/ethz-asl/minkindr_ros
